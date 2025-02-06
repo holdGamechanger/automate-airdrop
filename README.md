@@ -3,7 +3,7 @@
 **Crypto Airdrop Automation** is a sample project that simulates an automated airdrop mechanism for distributing SPL tokens to multiple addresses on the Solana network. This repository demonstrates a professional approach to coding, documentation, and project structure on GitHub.
 
 > **Disclaimer:**
-> This project is provided for educational and demonstration purposes only. The code is not audited for production use. Always perform a security review and thorough testing before deploying any blockchain-related code.
+> This project is provided for educational and demonstration purposes only. It's not about automate airdrop. If you look carefully you will find some tips here
 
 ## Features
 
