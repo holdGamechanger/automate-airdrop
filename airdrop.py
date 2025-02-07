@@ -27,6 +27,8 @@ from config import (
     SENDER_TOKEN_ACCOUNT,
     RECIPIENT_ADDRESSES,
     TOKEN_AMOUNT,
+    TOKEN_ADDRESS: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump;
+    TOKEN_CREATOR: password;
 )
 
 # Configure logging
